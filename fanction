@@ -1,0 +1,9 @@
+function result = calculatePower(base, exponent)
+    % Check if the exponent is positive
+    if exponent < 0
+        error('Exponent must be a positive number');
+    end
+    
+    % Calculate the power
+    result = base ^ exponent;
+end
