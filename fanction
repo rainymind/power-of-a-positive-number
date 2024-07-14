@@ -1,5 +1,5 @@
 function result = calculatePower(base, exponent)
-    % Check if the exponent is positive 
+    % Check if the exponent is positive 564
     if exponent < 0
         error('Exponent must be a positive number');
     end
