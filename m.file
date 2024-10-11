@@ -1,3 +1,4 @@
-% Call the function to calculate the power.000000000000000000
+% 000000000000000000
+% Call the function to calculate the power.
 result = calculatePower(2, 3); % Calculate 2 to the power of 3
 disp(result); % Display the result
